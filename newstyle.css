@@ -1,0 +1,314 @@
+.all-body{display: block;justify-content: space-between; width: 100%; overflow:auto;height: 100%;}
+
+.header{display: flex;
+    background-image: url(blue_bg.png);
+    background-size: contain;width: 100%;
+    height: 900px;
+     background-repeat: no-repeat;}
+
+
+     .nav{display: flex;
+        justify-content: space-between;
+        width: 100%;margin: 0px;}
+
+     .nav-left{display: flex;}
+
+     .img{display: flex;align-items: center;}
+
+    .home{list-style: none;
+    display: flex;
+    padding: 5px 4px 07px 50px;}
+
+    .li{justify-content: space-around;
+        margin: 10px;
+         color: black;font: bold;font-size: 24px;}
+    
+
+     .nav-right{display: flex;}
+
+     .input{display: flex;
+        align-items: flex-start;
+        margin-top: 20px;
+        position: relative;
+        padding:0px 100px 2px 2px;}
+
+
+        .login{display: flex;
+            position: absolute;
+            margin-top:10px; 
+            margin-right: 20px;
+            margin-bottom: 0px;
+            margin-left: 25px;}
+
+
+        .h3{color: blue;
+         margin-left: 50px;
+         margin-top: 150px; 
+         font-size: 40px;}
+
+
+        .deliver{color: darkmagenta;}
+            
+        
+         .p{color: gray;
+            margin: 5px 50px  0px ;
+            width: 400px; font-size: 20px;}
+
+
+         .land{width: 100px;
+            height: 100px;
+            position: absolute;
+            top: -80px;
+            right: 800px;
+        z-index: 1px; }
+
+        .Mask{width: 100px;
+            height: 100px;
+            position: absolute;
+            top: -10px;
+            right: 600px;
+        z-index: 2px}
+
+        .clouds{width: 100px;
+            height: 100px;
+            position: absolute;
+            top: 490px;
+            right: 650px;
+        z-index: 3px}
+
+        .waves{width: 100px;
+            height: 100px;
+            position: absolute;
+            top: 580px;
+            right: 2300px;
+        z-index: 3px}
+
+
+
+
+
+
+        .body{background-image: url(second_section_.png);
+             background-repeat: no-repeat;
+             background-size: 90%;}
+
+
+        .Group{list-style: none;
+            display: block;
+            margin:15px 20px 3px 40px;}
+
+
+        .h5{color: dimgrey;
+            font-size:20px;
+             font: bold;
+             display: flex;
+             align-items: center;
+              margin:10px 20px 3px 80px;
+              padding:10px  40px 0px 20px;}
+
+            
+        .Group-p{color:rgb(129, 128, 128);
+            margin:5px 15px 3px 70px ;
+            font-size: 18px;width: 289px;
+            align-items: center; }
+
+            
+          .Group-p2{color:rgb(129, 128, 128);
+            margin:5px 30px 3px 45px ;
+             font-size: 18px;
+             width: 300px;
+             align-items: center;}
+
+
+             .level4{display: flex;width: 100%;}
+
+
+             .Group-152{display: block;list-style: none;
+                 margin:5px 30px 3px 420px}
+
+
+
+            .Group152.p{font-size: small;
+                display: flex;width: 40px;}
+
+             .Real{color: dimgrey;;
+            font-size:20px;
+             display: flex;
+            align-items: center;
+             margin:10px 20px 3px 35px;
+             padding:10px  40px 0px 20px;}
+
+            .leave{color: rgb(138, 135, 135);
+            margin:5px 10px 3px -25px ;
+            font-size: 18px;width:350px;
+            align-items: center;}
+
+                    
+            .customers{color:rgb(138, 135, 135);
+             margin:5px 30px 3px 10px ;
+             font-size: 18px;
+             width: 300px;
+            align-items: center;}
+
+
+
+            .level3{display: flex;
+            justify-content: space-between;
+            margin:40px 80px 3px 10px; z-index: 1px;}
+
+            .kudzoka_bg{position: relative;}
+
+            .h6{position: absolute;
+            top:1630px ;
+            right: 1110px; z-index: 2px; color: white;
+            font-size: 23px;  margin: 35px -20px 0px 0px;}
+
+            .KUDZOKA{position: absolute;
+            top:1700px ;   
+            right: 1110px; 
+            z-index: 2px; 
+            color: white;
+            font-size: 55px;
+             margin: 0px -180px 2px 10px;}
+
+
+            .Discounts{color:  dimgrey;;
+            font-size:20px;
+             font: bold;
+             display: flex;
+             align-items: center;
+             margin:5px 10px 3px 135px;
+            padding:10px  40px 0px 20px;}
+
+            .Growing{color: rgb(129, 128, 128);  
+            margin:10px 40px 3px 40px ;
+            font-size: 18px;width: 330px;
+            align-items: center; }
+
+            .take{color:rgb(129, 128, 128);
+            margin:0px 40px 3px 28px ;
+            font-size: 18px;
+            width: 360px;
+            align-items: center;}
+        
+
+            .level4{display: flex;
+             justify-content: space-between;
+             margin-top: 150px;}
+
+            .Group1007{display: block; 
+            margin:-170px 10px 3px 0px;}
+
+            .Round{display:flex;
+            justify-content: center;
+            align-items: center;
+            color:rgb(100, 100, 100);
+            font-size: 20px; margin: 0px; }
+
+            .We-only{display:flex;    
+            justify-content: center;
+            align-items: center;
+            color:rgb(170, 163, 163);
+            font-size: 15px; margin: 15px;}
+                      
+            .to-get{display:flex;
+            justify-content: center;
+            align-items: center;
+            color:rgb(170, 163, 163);
+            font-size: 15px; margin: 10px;}
+
+
+            .customer’s{display:flex;
+            justify-content: center;
+            align-items: center;
+            color:rgb(170, 163, 163);
+            font-size: 15px; margin: 10px;}
+
+
+                    
+
+
+            .fooder{display: flex;
+            justify-content: space-between;
+            background-image: url(Group\ 1131.png);
+            background-size:contain;
+            background-repeat: no-repeat; 
+            width: 110%; 
+            height: 900px;
+             margin: 2px 0px 100px -25px;
+             transform: translate(10dge); }
+
+
+
+
+            .left-fooder{display: block;
+             margin: 350px   10px 0px 100px}
+
+            .left-fooder-top-buttom{display: flex;
+            list-style: none;
+            justify-content: space-around;
+             width:320px;
+             margin:0px 0px 2px  -10px; 
+             color: wheat;
+             font-size: 10px;
+             border-radius: 50%;
+             padding: 10px  10px 15px 0px;}
+
+
+            .buttom1{border-radius: 10%;
+                background-color: white;
+                display: flex;
+                align-items: center;
+                position: relative;
+                width:150PX; height: 50PX;}
+
+
+            .APPLE{justify-content: center;
+                align-items: center; 
+                margin: -2px 0px 3px 5px;}
+
+            .APP-APPLE{font-size: 15px;
+                 font: bold;color: black;
+                 margin: -20PX 10PX 3PX 50PX;
+                 position: absolute;}
+
+
+             .buttom2{border-radius: 10%;
+                background-color: white;
+                display: flex;align-items: center;
+                position: relative; 
+                width:150PX;
+                height: 50PX;}
+
+
+            .PLAY{justify-content: center;
+                align-items: center;
+                margin: -2px 0px 3px 5px;}
+
+
+            .APP-PLAY{font-size: 15px;
+                 font: bold;color: black;
+                 margin: -20PX 10PX 3PX 50PX;
+                 position: absolute;}
+
+
+            .center-fooder{display: flex;
+                 list-style: none;
+                 justify-content: space-around;
+                 width:140px; 
+                 margin:5px 30px 2px  -20px;
+                 color: wheat;font-size: 20px;}
+
+
+
+
+            .bottom-fooder{display: flex;
+                 list-style: none;
+                 justify-content: space-around;
+                 width:380px;
+                 margin:5px 0px 2px  -60px;
+                 color: wheat;font-size: 20px;}
+
+
+
+            .n-removebg{display: flex;margin: -400px 30px 0px 570px;}
